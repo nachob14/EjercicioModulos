@@ -1,0 +1,16 @@
+{
+  "name": "ejerciciomodulos",
+  "version": "1.0.0",
+  "description": "Ejercicio sobre modulos del curso de Javascript de Open Bootcamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
